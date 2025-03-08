@@ -36,5 +36,6 @@ I'm always open to learning from others and collaborating on exciting projects. 
 
 - 💼 [**LinkedIn:** Majdi Jaigirdar](https://www.linkedin.com/in/majdi-jaigirdar-9624721ab/)
 - 📸 [**Instagram:** Majdi_Jaigirdar](https://www.instagram.com/majdi_jaigirdar/)
+- 🧑‍💻 [**Contact via my website**](https://majdij.github.io/contact.html)
 
 Thank you for visiting my profile! Let's code and create amazing things. 🚀
