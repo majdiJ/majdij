@@ -2,6 +2,12 @@
 
 Hi there! I'm a university student currently pursuing a degree in Computer Science. I'm passionate about technology, programming, and exploring the vast world of computer science. Here's a little about me and what I'm working on:
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dialexy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dialexy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dialexy&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt ="languages graph"
+</div>
+
 ## About Me
 
 - 🎓 **University Life:** I'm studying Python and Java as part of my coursework.
