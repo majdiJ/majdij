@@ -8,6 +8,23 @@ Hi there! I'm a university student currently pursuing a degree in Computer Scien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdij&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="languages graph" />
 </div>
 
+<br>
+
+<p>
+  <img src="https://img.shields.io/github/followers/majdij?label=Followers&style=flat&color=white&logo=github&logoColor=white" alt="GitHub followers" />
+
+  <img src="https://komarev.com/ghpvc/?username=majdij&style=social&color=green" alt="Profile views" />
+
+  <a href="https://majdij.com/">
+    <img src="https://img.shields.io/badge/Website-MajdiJ.com-gold?style=flat&logo=world" alt="Website" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/majdi-jaigirdar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Majdi%20Jaigirdar-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+
 ## About Me
 
 - 🎓 **University Life:** I'm studying Python and Java as part of my coursework.
