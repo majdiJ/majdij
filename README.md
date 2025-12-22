@@ -15,7 +15,7 @@ Hi there! I'm a university student currently pursuing a degree in Computer Scien
 
   <img src="https://komarev.com/ghpvc/?username=majdij&style=social&color=green" alt="Profile views" />
 
-  <a href="https://majdij.com/">
+  <a href="https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio">
     <img src="https://img.shields.io/badge/Website-MajdiJ.com-gold?style=flat&logo=world" alt="Website" />
   </a>
 
@@ -35,7 +35,7 @@ Hi there! I'm a university student currently pursuing a degree in Computer Scien
 - 🚀 **Career Aspirations:** I aspire to build a career in computer science and technology, though I haven't settled on a specific path yet because I genuinely enjoy learning everything about this field.
 
 ## View my Website!
-[My website: **MajdiJ.com**](https://majdij.com/)
+[My website: **MajdiJ.com**](https://majdij.com/?utm_source=github&utm_medium=social&utm_content=bio)
 
 ## Let's Connect!
 
@@ -43,6 +43,6 @@ I'm always open to learning from others and collaborating on exciting projects. 
 
 - 💼 [**LinkedIn:** Majdi Jaigirdar](https://www.linkedin.com/in/majdi-jaigirdar-9624721ab/)
 - 📸 [**Instagram:** Majdi_Jaigirdar](https://www.instagram.com/majdi_jaigirdar/)
-- 🧑‍💻 [**Contact via my website**](https://majdij.com/#contact)
+- 🧑‍💻 [**Contact via my website**](https://majdij.com/#contact?utm_source=github&utm_medium=social&utm_content=bio)
 
 Thank you for visiting my profile! Let's code and create amazing things. 🚀
